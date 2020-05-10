@@ -8,7 +8,7 @@ import androidx.paging.LivePagedListBuilder;
 import androidx.paging.PagedList;
 
 /**
- * 数据处理中心
+ * 数据处理中心ViewModel
  */
 public class ContactViewModel extends ViewModel {
     private LiveData<PagedList<ContactBean>> concertList;
