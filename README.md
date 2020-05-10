@@ -1,2 +1,3 @@
 # PagingWithNetWorkJavaSample
 这是一个使用java代码模拟Paging分页库加载网络数据的代码
+注意，里面网络请求的地方是使用伪代码写的，并没有使用到网络框架
